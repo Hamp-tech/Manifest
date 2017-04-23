@@ -2,7 +2,7 @@
 
 ## **_Disfruta el teu temps de bugaderia._**
 
-### - Que és *Hamp*?
+### - Que és *Hamp* ?
 *Hamp* és un nou **concepte** de bugaderia.
 
 Si ets un usuari / client de bugaderies, probablement sàpigues la lluita de tenir al voltant d'una hora de temps lliure entre rentat i assecat de la roba.
@@ -12,9 +12,9 @@ Si ets un usuari / client de bugaderies, probablement sàpigues la lluita de ten
 
 *El servei Hamp* actualment només està disponible a *El Vendrell* (Tarragona).
 
-### - On renta, neteja i doblega *Hamp* les seves peces?
+### - On renta, neteja i doblega *Hamp* les seves peces ?
 
-Les peces són rentades a [**_Lavanda Laundry_**](https://www.facebook.com/pg/lavandalaundryelvendrell/about/), cada rentat inclou:
+Les peces són tractades a [**_Lavanda Laundry_**](https://www.facebook.com/pg/lavandalaundryelvendrell/about/), cada rentat inclou:
 
 - Detergent
 - Suavitzant
@@ -23,7 +23,7 @@ Les peces són rentades a [**_Lavanda Laundry_**](https://www.facebook.com/pg/la
   - Antibacteris
 
 
-### - Quina roba/servei puc rentar?
+### - Quina roba/servei puc rentar ?
 - Rentadora gran
 - Rentadora petita
 - Assecat
@@ -33,10 +33,10 @@ Les peces són rentades a [**_Lavanda Laundry_**](https://www.facebook.com/pg/la
 - Fundes de sofà
 - Mantes
 
-### - Què és un *Hamp point*?
+### - Què és un *Hamp point* ?
 El *Hamp point* és un lloc físic preparat per guardar les peces de roba dins les guixetes.
 
-Les guixetes estan fetes de fenòlic i són altament segures, dissenyades per prevenir el forçat dels panys. Cada guixeta té un teclat numèric electrònic amb un codi  personalitzat generat a l'atzar. Quan *Hamp* recull la roba de la guixeta, el codi és canviat automàticament. Aquest sistema assegura que el codi sempre sigui diferent: la guixeta mai té dues vegades el mateix pin.
+Les guixetes estan fetes de fenòlic i són altament segures, dissenyades per prevenir el forçat dels panys. Cada guixeta té un teclat numèric electrònic amb un codi  personalitzat generat a l'atzar. Quan *Hamp* recull la roba de la guixeta, el codi és canviat automàticament. Aquest sistema assegura que el codi sempre sigui diferent: la guixeta mai té dues vegades el mateix codi.
 
 
 ### - Procés *Hamp*
