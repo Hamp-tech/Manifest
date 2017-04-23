@@ -35,7 +35,7 @@ Clothes are washed on [**_Lavanda Laundry_**](https://www.facebook.com/pg/lavand
 Lockers are done of *phenolic*, and are make to ensure not forced and prevent theft. Each locker has a digital pin pad with a custom random based pin. When *Hamp* pick up the clothes and empty the locker, the pin is changed, this assure the pin is different always. A locker won't have the same pin twice.
 
 ### - *Hamp* process
-*Hamp* is based on the simplest process possible ( **~5min** ).
+*Hamp* is based on simplest process possible ( **~5min** ).
 
 You do not have to worry about anything. *Hamp* will do for you.
 
