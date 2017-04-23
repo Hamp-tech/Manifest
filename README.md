@@ -10,7 +10,7 @@ If you are a laundries user, probably you have to wait one hour more or less bet
 *Hamp* will be the solution to don't waste time waiting your laundries, you just will give your clothes, on less than **24h** you will have your clothes **_clean, dry and folded_**.
 
 ### - Where *Hamp* wash, clean and fold clothes?
-The service at this moment is only available in *El Vendrell* (Tarragona).
+Service at this moment is only available in *El Vendrell* (Tarragona).
 
 Clothes are washed on [**_Lavanda Laundry_**](https://www.facebook.com/pg/lavandalaundryelvendrell/about/), on every wash, they use:
 - Detergent
