@@ -49,5 +49,5 @@ No has de preocupar-te per res. Hamp ho fa tot per tu.
 3. Pagui amb targeta Visa.
 4. Rebrà un número de taquilla i un codi secret.
 5. Obri la taquilla, posi les seves peces a l'interior i tanqui la porta.
-6. **Gaudeixi del seu temps**, en menys de 24 hores rebrà un push / missatge / correu indicant-li la guixeta i el codi.
+6. **Gaudeixi del seu temps**, en menys de 24 hores rebrà un push / missatge / correu indicant-li la guixeta i el codi que conté la seva roba.
 7. Reculli la seva roba.
