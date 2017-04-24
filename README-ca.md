@@ -44,10 +44,10 @@ Les guixetes estan fetes de fenòlic i són altament segures, dissenyades per pr
 
 No has de preocupar-te per res. Hamp ho fa tot per tu.
 
-1. Vés a un punt *Hamp*.
+1. Vés a un *Hamp point*.
 2. Obri l'aplicació *Hamp* i realitzi la seva bugada virtual.
-3. Pagui amb targeta Visa
+3. Pagui amb targeta Visa.
 4. Rebrà un número de taquilla i un codi secret.
 5. Obri la taquilla, posi les seves peces a l'interior i tanqui la porta.
-6. **Gaudeixi del seu temps**, en menys de 24 hores rebrà un push / missatge / correu anunciant-li el seu nou pin i número de taquilla.
+6. **Gaudeixi del seu temps**, en menys de 24 hores rebrà un push / missatge / correu indicant-li la guixeta i el codi.
 7. Reculli la seva roba.
