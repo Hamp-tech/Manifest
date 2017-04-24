@@ -49,5 +49,5 @@ No tienes que preocuparte por nada. *Hamp* lo hace todo por ti.
 3. Pague con tarjeta Visa.
 4. Recibirá un número de taquilla y el código secreto.
 5. Abra la taquilla, ponga su colada en el interior y cierre la puerta.
-6. **Disfrute de su tiempo**, en menos de 24 horas recibirá una push/mensaje/correo indicándole la taquilla y el código.
+6. **Disfrute de su tiempo**, en menos de 24 horas recibirá una push/mensaje/correo indicándole la taquilla y el código que contiene su ropa.
 7. Recoja su ropa.
