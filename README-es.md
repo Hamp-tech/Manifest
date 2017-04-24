@@ -44,10 +44,10 @@ Las taquillas están hechas de fenólico y son altamente seguras, diseñadas par
 
 No tienes que preocuparte por nada. *Hamp* lo hace todo por ti.
 
-1. Ve a un punto Hamp
-2. Abra la aplicación Hamp y realice su lavandería virtual
-3. Pague con tarjeta Visa
-4. Recibirá un número de taquilla y un pin secreto.
-5. Abra la taquilla, pon sus piezas en el interior y cierre la puerta.
-6. **Disfrute de su tiempo**, en menos de 24 horas recibirá un push/mensaje/correo anunciándole su nuevo pin y número de taquilla.
+1. Ve a un *Hamp point*
+2. Abra la aplicación *Hamp* y realice su colada virtual.
+3. Pague con tarjeta Visa.
+4. Recibirá un número de taquilla y el código secreto.
+5. Abra la taquilla, ponga su colada en el interior y cierre la puerta.
+6. **Disfrute de su tiempo**, en menos de 24 horas recibirá una push/mensaje/correo indicándole la taquilla y el código.
 7. Recoja su ropa.
