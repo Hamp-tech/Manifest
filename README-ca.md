@@ -42,8 +42,6 @@ Les guixetes estan fetes de fenòlic i són altament segures, dissenyades per pr
 ### - Procés *Hamp*
 *Hamp* es basa en un procés el més simple possible ( **~5min** ).
 
-You do not have to worry about anything. *Hamp* will do for you.
-
 No has de preocupar-te per res. Hamp ho fa tot per tu.
 
 1. Vés a un punt *Hamp*.
