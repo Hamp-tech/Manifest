@@ -45,5 +45,5 @@ You do not have to worry about anything. *Hamp* will do for you.
 3. Pay via Visa card.
 4. You will receive one locker number and the secret pin.
 5. Open the locker, put your clothes in the bag, close the door.
-6. **Enjoy your time**, in less than 24 hours you will receive a push / message / email telling your new locker and pin.
+6. **Enjoy your time**, in less than 24 hours you will receive a push / message / email telling you the pin and locker that contains your clothes.
 7. Pick up your clothes.
